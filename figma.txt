@@ -1,0 +1,49 @@
+Tuesday, November 1, 2022
+🌐 Accessibility updates
+
+We've published a new Community file to help more people navigate prototypes using screen readers.You can also sign up here to be among the first to test our FigJam for screen reader closed beta.
+
+------
+
+Tuesday, October 25, 2022
+🚁 New ways to collaborate and propel ideas forward in Figma and FigJam
+
+Today we released a host of new features that help teams keep up momentum and move work forward together.Meet in a new wayMusic in FigJam: Get on the same wavelength as your team by working to the beat together in FigJam. Learn more.Voting in FigJam: Speed up decision making and remove bias by empowering teammates to vote anonymously on ideas. Learn more.Figma Chrome extension: Attach Figma and FigJam files to any Google Calendar event. Learn more.Microsoft Teams integration: Collaborate on Figma and FigJam files directly in Microsoft Teams. Learn more. Bring style to your filesSections in Figma: Organize content with sections to help teammates navigate through busy Figma files. Learn more.Markdown support in FigJam: Give words more meaning on the fly with markdown support. Learn more.Mobilize your workflowPush notifications: Never miss a beat in Figma or FigJam with notifications. Now available on iOS, Android, or desktop. Learn more.Mobile comments: Respond to questions and review work in Figma and FigJam from anywhere via comments on your phone or tablet. Download now for iOS or Android. Learn more.
+
+------
+
+Thursday, October 20, 2022
+🖼️ New frames in Figma
+
+We've added the following frames in Figma:iPhone 14iPhone 14 PlusiPhone 14 ProiPhone 14 Pro MaxMacBook Air M2TVLearn more about frames here.
+
+------
+
+Tuesday, October 18, 2022
+💴 Local currencies for new Pro customers
+
+Rolling out over the next few weeks, you have the option to purchase a new Professional plan in your local currency or USD if you are located in Japan, Europe, UK, and Canada.
+
+------
+
+Thursday, October 13, 2022
+🎨 Updates to moving styles
+
+We've updated the moving styles workflow so that it's more intuitive and easier to do in bulk:Right click on styles in the source field and select CutPaste styles into the destination filePublish the moved stylesStyle users will see update regarding the moveLearn more at our Help Center.
+
+------
+
+Tuesday, October 11, 2022
+⏯️ Add videos to Figma prototypes
+
+Starting this week, you can incorporate videos into Figma prototypes for richer, more realistic experiences. If you're on a Pro, Organization, or Enterprise plan, you can add your own. Everyone can view and use existing videos in their prototypes. Get started with videos in our playground file.Learn more here.
+
+------
+
+
+➡️ Build and edit prototypes faster
+
+We've made two updates to help you build and edit prototypes faster:Drag to select multiple interactions to edit or delete all at once.Create interactions from any edge of an object for easier-to-read prototypes.
+
+------
+
